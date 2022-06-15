@@ -1,3 +1,4 @@
 <?php
-echo "string";
+echo "string1";
+echo "string2";
 ?>
